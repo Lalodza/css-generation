@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+div {
+    background-color: #3ca141;
+}
+
+h1 {
+    text-transform: capitalize;
+}
+
+.elem-01 {
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    font-style: italic; 
+}
+
+.elem-02 {
+    color: #e6d486;
+}
+
+.elem-03 {
+    color: yellow;
+    
+}
+
+.elem-04 {
+    color: red;
+}

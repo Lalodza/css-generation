@@ -1,0 +1,30 @@
+body {
+    background-color: #a0b2bb;
+}
+
+h1 {
+    text-align: right;
+    font-family: "Comic Sans MS";
+
+
+}
+
+h2 {
+    text-transform: uppercase;
+
+}
+
+.naranja {
+    color: orangered;
+}
+
+.verde {
+    color: green;
+    background-color: white;
+    font-style: oblique;
+}
+
+.num {
+    color: orange;
+    font-weight: lighter;
+}
